@@ -1,0 +1,17 @@
+
+## Getting Started
+
+### Prerequisites
+
+- Docker and Docker Compose
+- Terraform
+- AWS CLI configured with appropriate credentials
+- kubectl
+
+### Local Development
+
+1. Clone this repository
+2. Run the application locally:
+
+```bash
+docker-compose up
