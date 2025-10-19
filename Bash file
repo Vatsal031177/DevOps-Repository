@@ -1,0 +1,5 @@
+BASH
+mkdir devops-project
+cd devops-project
+mkdir -p src/app kubernetes terraform monitoring/prometheus monitoring/grafana .github/workflows
+
